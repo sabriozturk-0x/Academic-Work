@@ -4,7 +4,7 @@ This repository contains selected academic research papers written during my stu
 
 ## 📄 Included Work
 
-- **BGP Hijacking** — written in English  
+- **Countermeasures against BGP hijacking** — written in English  
   Research on BGP hijacking attacks, their impact on Internet routing, and a comparison of possible countermeasures.
 
 - **Psychologische Faktoren bei der Passwortwahl** — written in German  
